@@ -81,248 +81,187 @@ gain 0 26 0;
 path 0 26 Unassigned;
 file 0 26 Unassigned;
 gain 0 27 1;
-path 0 27 ../data/General-MIDI/27_High_Q.wav
-;
+path 0 27 ../data/General-MIDI/27_High_Q.wav;
 file 0 27 27_High_Q;
 gain 0 28 1;
-path 0 28 ../data/General-MIDI/28_Slap.wav
-;
+path 0 28 ../data/General-MIDI/28_Slap.wav;
 file 0 28 28_Slap;
 gain 0 29 1;
-path 0 29 ../data/General-MIDI/29_Scratch_Push.wav
-;
+path 0 29 ../data/General-MIDI/29_Scratch_Push.wav;
 file 0 29 29_Scratch_Push;
 gain 0 30 1;
-path 0 30 ../data/General-MIDI/30_Scratch_Pull.wav
-;
+path 0 30 ../data/General-MIDI/30_Scratch_Pull.wav;
 file 0 30 30_Scratch_Pull;
 gain 0 31 1;
-path 0 31 ../data/General-MIDI/31_Sticks.wav
-;
+path 0 31 ../data/General-MIDI/31_Sticks.wav;
 file 0 31 31_Sticks;
 gain 1 0 1;
-path 1 0 ../data/General-MIDI/32_Square_Click.wav
-;
+path 1 0 ../data/General-MIDI/32_Square_Click.wav;
 file 1 0 32_Square_Click;
 gain 1 1 1;
-path 1 1 ../data/General-MIDI/33_Metronome_Click.wav
-;
+path 1 1 ../data/General-MIDI/33_Metronome_Click.wav;
 file 1 1 33_Metronome_Click;
 gain 1 2 1;
-path 1 2 ../data/General-MIDI/34_Metronome_Bell.wav
-;
+path 1 2 ../data/General-MIDI/34_Metronome_Bell.wav;
 file 1 2 34_Metronome_Bell;
 gain 1 3 1;
-path 1 3 ../data/General-MIDI/35_Acoustic_Bass_Drum.wav
-;
+path 1 3 ../data/General-MIDI/35_Acoustic_Bass_Drum.wav;
 file 1 3 35_Acoustic_Bass_Drum;
 gain 1 4 1;
-path 1 4 ../data/General-MIDI/36_Electric_Bass_Drum.wav
-;
+path 1 4 ../data/General-MIDI/36_Electric_Bass_Drum.wav;
 file 1 4 36_Electric_Bass_Drum;
 gain 1 5 1;
-path 1 5 ../data/General-MIDI/37_Side_Stick.wav
-;
+path 1 5 ../data/General-MIDI/37_Side_Stick.wav;
 file 1 5 37_Side_Stick;
 gain 1 6 1;
-path 1 6 ../data/General-MIDI/38_Acoustic_Snare.wav
-;
+path 1 6 ../data/General-MIDI/38_Acoustic_Snare.wav;
 file 1 6 38_Acoustic_Snare;
 gain 1 7 1;
-path 1 7 ../data/General-MIDI/39_Hand_Clap.wav
-;
+path 1 7 ../data/General-MIDI/39_Hand_Clap.wav;
 file 1 7 39_Hand_Clap;
 gain 1 8 1;
-path 1 8 ../data/General-MIDI/40_Electric_Snare.wav
-;
+path 1 8 ../data/General-MIDI/40_Electric_Snare.wav;
 file 1 8 40_Electric_Snare;
 gain 1 9 1;
-path 1 9 ../data/General-MIDI/41_Low_Floor_Tom.wav
-;
+path 1 9 ../data/General-MIDI/41_Low_Floor_Tom.wav;
 file 1 9 41_Low_Floor_Tom;
 gain 1 10 1;
-path 1 10 ../data/General-MIDI/42_Closed_Hi-hat.wav
-;
+path 1 10 ../data/General-MIDI/42_Closed_Hi-hat.wav;
 file 1 10 42_Closed_Hi-hat;
 gain 1 11 1;
-path 1 11 ../data/General-MIDI/43_High_Floor_Tom.wav
-;
+path 1 11 ../data/General-MIDI/43_High_Floor_Tom.wav;
 file 1 11 43_High_Floor_Tom;
 gain 1 12 1;
-path 1 12 ../data/General-MIDI/44_Pedal_Hi-hat.wav
-;
+path 1 12 ../data/General-MIDI/44_Pedal_Hi-hat.wav;
 file 1 12 44_Pedal_Hi-hat;
 gain 1 13 1;
-path 1 13 ../data/General-MIDI/45_Low_Tom.wav
-;
+path 1 13 ../data/General-MIDI/45_Low_Tom.wav;
 file 1 13 45_Low_Tom;
 gain 1 14 1;
-path 1 14 ../data/General-MIDI/46_Open_Hi-hat.wav
-;
+path 1 14 ../data/General-MIDI/46_Open_Hi-hat.wav;
 file 1 14 46_Open_Hi-hat;
 gain 1 15 1;
-path 1 15 ../data/General-MIDI/47_Low-Mid_Tom.wav
-;
+path 1 15 ../data/General-MIDI/47_Low-Mid_Tom.wav;
 file 1 15 47_Low-Mid_Tom;
 gain 1 16 1;
-path 1 16 ../data/General-MIDI/48_Hi-Mid_Tom.wav
-;
+path 1 16 ../data/General-MIDI/48_Hi-Mid_Tom.wav;
 file 1 16 48_Hi-Mid_Tom;
 gain 1 17 1;
-path 1 17 ../data/General-MIDI/49_Crash_Cymbal_1.wav
-;
+path 1 17 ../data/General-MIDI/49_Crash_Cymbal_1.wav;
 file 1 17 49_Crash_Cymbal_1;
 gain 1 18 1;
-path 1 18 ../data/General-MIDI/50_High_Tom.wav
-;
+path 1 18 ../data/General-MIDI/50_High_Tom.wav;
 file 1 18 50_High_Tom;
 gain 1 19 1;
-path 1 19 ../data/General-MIDI/51_Ride_Cymbal_1.wav
-;
+path 1 19 ../data/General-MIDI/51_Ride_Cymbal_1.wav;
 file 1 19 51_Ride_Cymbal_1;
 gain 1 20 1;
-path 1 20 ../data/General-MIDI/52_Chinese_Cymbal.wav
-;
+path 1 20 ../data/General-MIDI/52_Chinese_Cymbal.wav;
 file 1 20 52_Chinese_Cymbal;
 gain 1 21 1;
-path 1 21 ../data/General-MIDI/53_Ride_Bell.wav
-;
+path 1 21 ../data/General-MIDI/53_Ride_Bell.wav;
 file 1 21 53_Ride_Bell;
 gain 1 22 1;
-path 1 22 ../data/General-MIDI/54_Tambourine.wav
-;
+path 1 22 ../data/General-MIDI/54_Tambourine.wav;
 file 1 22 54_Tambourine;
 gain 1 23 1;
-path 1 23 ../data/General-MIDI/55_Splash_Cymbal.wav
-;
+path 1 23 ../data/General-MIDI/55_Splash_Cymbal.wav;
 file 1 23 55_Splash_Cymbal;
 gain 1 24 1;
-path 1 24 ../data/General-MIDI/56_Cowbell.wav
-;
+path 1 24 ../data/General-MIDI/56_Cowbell.wav;
 file 1 24 56_Cowbell;
 gain 1 25 1;
-path 1 25 ../data/General-MIDI/57_Crash_Cymbal_2.wav
-;
+path 1 25 ../data/General-MIDI/57_Crash_Cymbal_2.wav;
 file 1 25 57_Crash_Cymbal_2;
 gain 1 26 1;
-path 1 26 ../data/General-MIDI/58_Vibra_Slap.wav
-;
+path 1 26 ../data/General-MIDI/58_Vibra_Slap.wav;
 file 1 26 58_Vibra_Slap;
 gain 1 27 1;
-path 1 27 ../data/General-MIDI/59_Ride_Cymbal_2.wav
-;
+path 1 27 ../data/General-MIDI/59_Ride_Cymbal_2.wav;
 file 1 27 59_Ride_Cymbal_2;
 gain 1 28 1;
-path 1 28 ../data/General-MIDI/60_High_Bongo.wav
-;
+path 1 28 ../data/General-MIDI/60_High_Bongo.wav;
 file 1 28 60_High_Bongo;
 gain 1 29 1;
-path 1 29 ../data/General-MIDI/61_Low_Bongo.wav
-;
+path 1 29 ../data/General-MIDI/61_Low_Bongo.wav;
 file 1 29 61_Low_Bongo;
 gain 1 30 1;
-path 1 30 ../data/General-MIDI/62_Mute_High_Conga.wav
-;
+path 1 30 ../data/General-MIDI/62_Mute_High_Conga.wav;
 file 1 30 62_Mute_High_Conga;
 gain 1 31 1;
-path 1 31 ../data/General-MIDI/63_Open_High_Conga.wav
-;
+path 1 31 ../data/General-MIDI/63_Open_High_Conga.wav;
 file 1 31 63_Open_High_Conga;
 gain 2 0 1;
-path 2 0 ../data/General-MIDI/64_Low_Conga.wav
-;
+path 2 0 ../data/General-MIDI/64_Low_Conga.wav;
 file 2 0 64_Low_Conga;
 gain 2 1 1;
-path 2 1 ../data/General-MIDI/65_High_Timbale.wav
-;
+path 2 1 ../data/General-MIDI/65_High_Timbale.wav;
 file 2 1 65_High_Timbale;
 gain 2 2 1;
-path 2 2 ../data/General-MIDI/66_Low_Timbale.wav
-;
+path 2 2 ../data/General-MIDI/66_Low_Timbale.wav;
 file 2 2 66_Low_Timbale;
 gain 2 3 1;
-path 2 3 ../data/General-MIDI/67_High_Agogo.wav
-;
+path 2 3 ../data/General-MIDI/67_High_Agogo.wav;
 file 2 3 67_High_Agogo;
 gain 2 4 1;
-path 2 4 ../data/General-MIDI/68_Low_Agogo.wav
-;
+path 2 4 ../data/General-MIDI/68_Low_Agogo.wav;
 file 2 4 68_Low_Agogo;
 gain 2 5 1;
-path 2 5 ../data/General-MIDI/69_Cabasa.wav
-;
+path 2 5 ../data/General-MIDI/69_Cabasa.wav;
 file 2 5 69_Cabasa;
 gain 2 6 1;
-path 2 6 ../data/General-MIDI/70_Maracas.wav
-;
+path 2 6 ../data/General-MIDI/70_Maracas.wav;
 file 2 6 70_Maracas;
 gain 2 7 1;
-path 2 7 ../data/General-MIDI/71_Short_Whistle.wav
-;
+path 2 7 ../data/General-MIDI/71_Short_Whistle.wav;
 file 2 7 71_Short_Whistle;
 gain 2 8 1;
-path 2 8 ../data/General-MIDI/72_Long_Whistle.wav
-;
+path 2 8 ../data/General-MIDI/72_Long_Whistle.wav;
 file 2 8 72_Long_Whistle;
 gain 2 9 1;
-path 2 9 ../data/General-MIDI/73_Short_Guiro.wav
-;
+path 2 9 ../data/General-MIDI/73_Short_Guiro.wav;
 file 2 9 73_Short_Guiro;
 gain 2 10 1;
-path 2 10 ../data/General-MIDI/74_Long_Guiro.wav
-;
+path 2 10 ../data/General-MIDI/74_Long_Guiro.wav;
 file 2 10 74_Long_Guiro;
 gain 2 11 1;
-path 2 11 ../data/General-MIDI/75_Claves.wav
-;
+path 2 11 ../data/General-MIDI/75_Claves.wav;
 file 2 11 75_Claves;
 gain 2 12 1;
-path 2 12 ../data/General-MIDI/76_High_Woodblock.wav
-;
+path 2 12 ../data/General-MIDI/76_High_Woodblock.wav;
 file 2 12 76_High_Woodblock;
 gain 2 13 1;
-path 2 13 ../data/General-MIDI/77_Low_Woodblock.wav
-;
+path 2 13 ../data/General-MIDI/77_Low_Woodblock.wav;
 file 2 13 77_Low_Woodblock;
 gain 2 14 1;
-path 2 14 ../data/General-MIDI/78_Mute_Cuica.wav
-;
+path 2 14 ../data/General-MIDI/78_Mute_Cuica.wav;
 file 2 14 78_Mute_Cuica;
 gain 2 15 1;
-path 2 15 ../data/General-MIDI/79_Open_Cuica.wav
-;
+path 2 15 ../data/General-MIDI/79_Open_Cuica.wav;
 file 2 15 79_Open_Cuica;
 gain 2 16 1;
-path 2 16 ../data/General-MIDI/80_Mute_Triangle.wav
-;
+path 2 16 ../data/General-MIDI/80_Mute_Triangle.wav;
 file 2 16 80_Mute_Triangle;
 gain 2 17 1;
-path 2 17 ../data/General-MIDI/81_Open_Triangle.wav
-;
+path 2 17 ../data/General-MIDI/81_Open_Triangle.wav;
 file 2 17 81_Open_Triangle;
 gain 2 18 1;
-path 2 18 ../data/General-MIDI/82_Shaker.wav
-;
+path 2 18 ../data/General-MIDI/82_Shaker.wav;
 file 2 18 82_Shaker;
 gain 2 19 1;
-path 2 19 ../data/General-MIDI/83_Jingle_Bell.wav
-;
+path 2 19 ../data/General-MIDI/83_Jingle_Bell.wav;
 file 2 19 83_Jingle_Bell;
 gain 2 20 1;
-path 2 20 ../data/General-MIDI/84_Belltree.wav
-;
+path 2 20 ../data/General-MIDI/84_Belltree.wav;
 file 2 20 84_Belltree;
 gain 2 21 1;
-path 2 21 ../data/General-MIDI/85_Castanets.wav
-;
+path 2 21 ../data/General-MIDI/85_Castanets.wav;
 file 2 21 85_Castanets;
 gain 2 22 1;
-path 2 22 ../data/General-MIDI/86_Mute_Surdo.wav
-;
+path 2 22 ../data/General-MIDI/86_Mute_Surdo.wav;
 file 2 22 86_Mute_Surdo;
 gain 2 23 1;
-path 2 23 ../data/General-MIDI/87_Open_Surdo.wav
-;
+path 2 23 ../data/General-MIDI/87_Open_Surdo.wav;
 file 2 23 87_Open_Surdo;
 gain 2 24 1;
 path 2 24 Unassigned;
@@ -443,68 +382,4 @@ path 3 30 Unassigned;
 file 3 30 Unassigned;
 gain 3 31 0;
 path 3 31 Unassigned;
-file 3 31 Unassigned;
-gain 3 0 0;
-file 3 0 Unassigned;
-gain 3 1 0;
-file 3 1 Unassigned;
-gain 3 2 0;
-file 3 2 Unassigned;
-gain 3 3 0;
-file 3 3 Unassigned;
-gain 3 4 0;
-file 3 4 Unassigned;
-gain 3 5 0;
-file 3 5 Unassigned;
-gain 3 6 0;
-file 3 6 Unassigned;
-gain 3 7 0;
-file 3 7 Unassigned;
-gain 3 8 0;
-file 3 8 Unassigned;
-gain 3 9 0;
-file 3 9 Unassigned;
-gain 3 10 0;
-file 3 10 Unassigned;
-gain 3 11 0;
-file 3 11 Unassigned;
-gain 3 12 0;
-file 3 12 Unassigned;
-gain 3 13 0;
-file 3 13 Unassigned;
-gain 3 14 0;
-file 3 14 Unassigned;
-gain 3 15 0;
-file 3 15 Unassigned;
-gain 3 16 0;
-file 3 16 Unassigned;
-gain 3 17 0;
-file 3 17 Unassigned;
-gain 3 18 0;
-file 3 18 Unassigned;
-gain 3 19 0;
-file 3 19 Unassigned;
-gain 3 20 0;
-file 3 20 Unassigned;
-gain 3 21 0;
-file 3 21 Unassigned;
-gain 3 22 0;
-file 3 22 Unassigned;
-gain 3 23 0;
-file 3 23 Unassigned;
-gain 3 24 0;
-file 3 24 Unassigned;
-gain 3 25 0;
-file 3 25 Unassigned;
-gain 3 26 0;
-file 3 26 Unassigned;
-gain 3 27 0;
-file 3 27 Unassigned;
-gain 3 28 0;
-file 3 28 Unassigned;
-gain 3 29 0;
-file 3 29 Unassigned;
-gain 3 30 0;
-file 3 30 Unassigned;
-gain 3 31 0;
 file 3 31 Unassigned;
