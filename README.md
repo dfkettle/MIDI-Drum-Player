@@ -10,3 +10,9 @@ can install third-party software that does. For Windows, I recommend loopMIDI,
 which is free and can be downloaded from here:
 
 https://www.tobias-erichsen.de/software/loopmidi.html
+
+The following libraries, which can be installed using Deken, are required:
+
+1. cyclone
+2. zexy
+3. iemlib
